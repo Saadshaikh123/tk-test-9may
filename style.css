@@ -1,0 +1,38 @@
+*{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    float: right;
+    
+}
+a{
+    margin: 10px;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+#btn{
+    width: 250px;
+    height: 40px;
+    background-color: #f2849e;
+    color: white;
+}
+
+#btn:hover{
+    background-color: #ed4b74;
+}
+#main{
+    margin: 0px;
+    float: right;
+}
+
+.rate{
+    color: #c14e3b;
+}
